@@ -1,0 +1,157 @@
+34464407 Macquarie University 
+41359753 Curtin University 
+26832834 Nature Medicine 
+24919888 NASA Earth 
+15461733 NASA Climate 
+15862891 Nature News&Comment 
+487833518 nature 
+19272796 Rutgers University 
+27596259 PLOS ONE 
+7309052 Yahoo News 
+1636590253 Tim Cook 
+13298072 Tesla 
+34743251 SpaceX 
+44196397 Elon Musk 
+2471009922 TechXplore 
+770729 Liz Gannes 
+102949421 Bath Spa University 
+15515159 Coventry University 
+23426889 Edinburgh University 
+17093617 Hootsuite 
+88914175 PLOS Medicine 
+20515047 PhysOrg Physics News 
+40234732 UCL News 
+41561657 BioMed Central 
+18991614 Universiteit Twente 
+15460048 MIT 
+27779882 Washington U. Med 
+15458277 UC San Francisco 
+17089636 News from Science 
+12819112 PLOS 
+397151941 ITM Antwerp 
+25950355 NEJM 
+38489678 JAMA 
+8984292 WebMD_Blogs 
+25562183 Reuters Health 
+27013292 The Lancet 
+32372834 Science Magazine 
+54546430 US EPA Research 
+47318212 ScienceMediaCentreNZ 
+13787402 The NPR Science Desk 
+28588873 AIP Publishing 
+25338245 SF Science Center 
+20515365 Phys.org Chemistry 
+20513956 Phys.org Space News 
+20513550 Phys.org Technology 
+20512439 Medical Xpress 
+20513249 Phys.org Biology 
+39210029 aBitOfScience_com 
+20651502 UConn Chemistry 
+21968928 Sandia National Labs 
+16582975 Boston College 
+23990221 UA Student Gov 
+20175682 Carlow University 
+21754589 Cardiff Uni Inter 
+23120329 Indiana Alumnus 
+25202358 Sheraton PHL UCity 
+22655658 University of Toledo 
+14862794 Melbourne University 
+18778855 Denison University 
+18916965 جامعة الملك سعود 
+20115751 University of DC 
+22019324 Longwood University 
+21435213 Genius. 
+19595764 Troy University 
+20779142 Cranfield University 
+19513912 University of Otago 
+20735453 UGA University Union 
+22266871 UniversityofAlberta 
+20015546 University of Padua 
+20654271 Bethel University 
+20770215 Clarkson University 
+15096852 Benefits University 
+15704472 Fluke University 
+5694822 Princeton University 
+21887013 Argosy University 
+20445068 Kettering University 
+16805731 Saxion 
+20252800 Edinboro University 
+19980619 University at Albany 
+18976051 Clarion University 
+14417717 MODUL University 
+15290634 Multnomah University 
+20581235 York Alumni Assoc,UK 
+20068192 Kingston University 
+18941075 St Mary's University 
+18202147 Univ College WUSTL 
+18460962 Duke Int'l Studies 
+19429847 Queen's University 
+14858016 Lawrence University 
+14648111 Howard University 
+15586478 Concordia University 
+18632200 Uni of Bradford 
+19397548 Bangor University 
+20513214 Abertay University 
+20427406 Aberdeen University 
+20141040 Coventry University 
+14534931 University of Iowa 
+18050631 Stetson University 
+19679993 Full Sail University 
+15996963 Flinders University 
+17224160 Lipscomb University 
+18173399 Concordia University 
+18681742 University of PEI 
+19546529 Brandeis University 
+19341622 Sheffield University 
+17396360 Whitworth University 
+18776647 Ryerson University 
+11442512 Butler University 
+18088843 Hustle University 
+19219680 Brand University 
+15926727 Monash University 
+17469142 Brock University 
+14979834 Study Abroad MiamiOH 
+15474865 Ulster University 
+19715694 University @ Buffalo 
+15909406 Winthrop University 
+17309685 Anderson University 
+21000110 University of Sussex 
+15103223 Ole Miss 
+16134692 University of Guelph 
+17809006 Drexel University 
+14983493 Miami University ASG 
+15862680 Monmouth University 
+17053944 La Trobe University 
+19760151 Uni of Glasgow 
+17087295 Trinity University 
+14915031 Bryant Admission 
+15801680 University Christian 
+20065487 Teesside University 
+18190448 Lewis University 
+17468189 Oakland University 
+8567762 Concordia University 
+14419395 StFX University 
+14294699 York University 
+18065266 McGill University 
+17624344 URI 
+14224706 Aston University 
+15360135 University of Akron 
+16528872 Davenport University 
+15389918 Keele University 
+15916215 Warwick University 
+5255121 Seattle University 
+16563472 Suffolk University 
+14884486 Brown University 
+12134862 Cardiff University 
+17851248 University of Hawaii 
+18175018 University of London 
+6778812 RMIT University 
+5141841 Hofstra University 
+19179395 University of Bath 
+15723976 BU Alumni 
+18458348 Indiana University 
+16712361 Ohio University 
+18917572 University of MN 
+17826553 Jonathan Fung 
+14114564 Auburn University 
+16743256 Marquette University 
