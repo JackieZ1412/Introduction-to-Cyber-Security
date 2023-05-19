@@ -7,7 +7,7 @@ PB20000103 王炳勋
 PB20111651 何泽昊
 
 ## Abstract
-在中期阶段，我们针对社交网络反匿名化的seeded方法和seedless方法，通过对它们进行调研、复现，并在数据集上进行测试，取得了初步了成果。本文介绍了小组取得的进步，您解决的挑战和下一步的工作计划。
+在中期阶段，我们针对社交网络反匿名化的seeded方法和seedless方法，通过对它们进行调研、复现，并在数据集上进行测试，取得了初步了成果。本文介绍了小组取得的进步，解决的挑战和下一步的工作计划。
 
 ## Progress
 目前为止复现了 Proposal 阶段的两篇论文的算法，它们分别是seeded的论文De-anonymizing social networks，以及seedless的论文Fast De-anonymization of Social Networks with Structural Information
