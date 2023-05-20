@@ -1,0 +1,1 @@
+docker run -it --rm -p 3000:3000 --mount type=bind,source="$(pwd)"/code/router.js,target=/home/cybersec/proj1/router.js --mount type=bind,source="$(pwd)"/code/views,target=/home/cybersec/proj1/views --name bitbar-container cybersec-proj1-image

