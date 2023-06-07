@@ -6,25 +6,32 @@
 
 这里的G选择Enron数据集，Gs、G1、G2使用[generator.cpp](./data/generator.cpp)在G的基础上生成
 
-G的点集下标范围0~36691 ```generator_seed(lower, upper)```生成所有下标在[lower, upper]之间的点的导出子图
-而```generator(int upper, int overlap)```生成G1、G2，它们之间大小几乎相等，只是有1/overlap的重叠
+G的点集下标范围0~36691 ```generator_seed(lower, upper)```生成所有下标在[lower, upper]之间的点的导出子图Gs
+而```generator(lower, upper, overlap)```生成Gs的子图G1、G2，它们有$overlap*(upper-lower)$大小的点集重叠
 
 ### 运行代码
 
 代码运行在linux上
 
-在```./build```文件夹中执行
+运行脚本```./generate_data.sh```可以生成数据集，其中可以自行修改脚本中的参数：
+```sh
+# config:
+lowest_vertice_index=1
+highest_vertice_index=2000     #less than 36691
+overlap_rate=0.8
+anonymization_method="no"
 ```
-cmake ..
-make
+
+运行脚本```./run_code.sh```可以运行代码，其中可以自行修改参数：
+```sh
+# config:
+ai=1
+am=1    
+do_interm=1
+overlap=1600    # = overlap_rate * (highest_vertice_index - lowest_vertice_index + 1)
 ```
-完成编译
 
-然后将```./data```文件夹复制到```./build```里面，就可以运行代码
-
-```./Rolematch ai am do_interm overlap```
-
-其中四个命令行参数如下：
+四个参数如下：
 * 参数1：ai
   ```
   enum algo_iter {
